@@ -12,8 +12,8 @@
     grid-gap: 5px;
 }
 .size{
-    background-color: azure;
-    color: rgb(8, 78, 20);
+    background-color: rgb(34, 255, 255);
+    color: rgb(66, 4, 4);
     border: 1px solid goldenrod;
     border-radius: 20px;
     padding: 5px;
@@ -25,10 +25,10 @@
    margin: 20px 500px
 }
 .divItem{
-    background-color: aquamarine;
+    background-color: rgb(228, 88, 7);
     margin:100px 500px;
     color: rgb(0, 0, 0);
-    border: 1px solid rgb(70, 24, 3);
+    border: 1px solid rgb(15, 13, 11);
     border-radius: 20px;
     padding: 20px;
     width:600px;
