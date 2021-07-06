@@ -12,8 +12,8 @@
     grid-gap: 5px;
 }
 .size{
-    background-color: rgb(112, 241, 7);
-    color:rgb(236, 0, 0);
+    background-color: rgba(8, 232, 240, 0.507);
+    color:rgb(255, 6, 6);
     border: 1px solid rgb(7, 2, 2);
     border-radius: 20px;
     padding: 5px;
